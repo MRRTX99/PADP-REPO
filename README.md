@@ -41,7 +41,7 @@ This repository contains seven programs related to **Parallel and Distributed Pr
 - Implements **ResNet-50 for feature extraction** and **DenseNet for depth prediction**.
 - Outputs results in `.PLY` format for 3D visualization.
 
-## Compilation and Execution Instructions
+## Compilation and Execution Instructions (GENERAL COMMANDs)
 Each program has different dependencies and execution methods. Below are the general steps:
 
 ### **1. Compiling OpenMP Programs (Program1, Program3, Program6)**
